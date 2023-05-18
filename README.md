@@ -1,4 +1,4 @@
-![Image Downloader logo](https://github.com/bebedi15/urltoimage/blob/main/urltoimage.png?raw=true)
+![Image Downloader logo](https://github.com/bebedi15/WebScreenRecorder/blob/main/webrecorder.png?raw=true)
 
 
 <div align='center'>
@@ -33,7 +33,9 @@
 
 ## 📋 Demo
 
-![Demo](demo.gif)
+<div align='center'>
+  <img src="https://github.com/bebedi15/WebScreenRecorder/blob/main/demo.gif?raw=true">
+</div>
 
 ## 🔥 Features
 
