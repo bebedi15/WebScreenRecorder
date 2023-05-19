@@ -48,7 +48,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/screen-recorder-extension.git
+   git clone https://github.com/bebedi15/WebScreenRecorder.git
    
 2. Open Google Chrome and navigate to `chrome://extensions`.
 
